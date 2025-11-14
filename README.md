@@ -63,7 +63,8 @@ The visualization helps identify age groups with higher survival probabilities a
 ## 🖼️ Dashboard Preview
 
 <p align="center">
-  <img src="images/Heart_Disease_dashboard.png" alt="Heart Disease Analysis Dashboard" width="800" />
+  <img width="1305" height="744" alt="Heart_Disease_dashboard" src="https://github.com/user-attachments/assets/612766ed-6a1a-4aae-b930-a1d438daf08a" />
+
 </p>
 
 *The dashboard provides insights into survival trends, medical factors, and demographic influences on heart disease.*
@@ -111,8 +112,8 @@ Follow these steps to view or recreate the **Heart Disease Analysis** project:
 
 ## 👤 Author
 
-**Madan N** — Data Analyst
-📧 [madan23112002@gmail.com](mailto:madan23112002@gmail.com)
+**Madan N** — Data Analyst <br />
+📧 [madan23112002@gmail.com](mailto:madan23112002@gmail.com) <br />
 💼 [LinkedIn](https://www.linkedin.com/in/madan-n-4a1a80327/)
 
 ---
